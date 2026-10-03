@@ -1,0 +1,6 @@
+Customer: Example Manufacturing
+Part: BR-204
+Revision: B
+Quantity: 250
+Material: Aluminum 6061-T6
+Due: 2026-11-15
