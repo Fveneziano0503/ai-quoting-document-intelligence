@@ -21,7 +21,7 @@ RFQs arrive with inconsistent information. Missing revisions, quantities, and sp
 | Manual costing and gross-margin calculation | Implemented |
 | Human review and CSV export | Implemented locally |
 | LLM document extraction and confidence scoring | Planned |
-| PDF OCR and engineering drawing interpretation | Planned |
+| PDF text extraction and engineering drawing interpretation | Planned |
 | ERP/CRM integration, live prices, quote sending | Planned |
 
 The AI-assisted architecture is a design direction. **This version makes no LLM calls and does not extract PDFs or interpret drawings.** It contains synthetic data and illustrative portfolio visuals. No measured savings or production use is claimed. The demo checks date format but does not validate calendar dates or delivery feasibility.
